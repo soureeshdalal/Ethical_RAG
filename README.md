@@ -89,16 +89,13 @@ Ethical-RAG/
 ## Access Dataset and Code
 
 All dataset files and pretrained embeddings used in this project can be accessed here:  
-👉 [Google Drive – Code and Dataset](https://drive.google.com/drive/folders/1rjAOjDqlkIQUfgY0JliLm-02H63cmcrx)
-
-*(Link extracted from Code_and_Dataset.pdf)*
+[Google Drive – Code and Dataset](https://drive.google.com/drive/folders/1rjAOjDqlkIQUfgY0JliLm-02H63cmcrx)
 
 ---
 
-## 👤 Author
+## Author
 
 **Soureesh Dalal**  
-📍 University of Illinois Chicago  
 🔗 [LinkedIn](https://www.linkedin.com/in/soureeshdalal/)  
 
 ---

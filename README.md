@@ -92,11 +92,3 @@ All dataset files and pretrained embeddings used in this project can be accessed
 [Google Drive – Code and Dataset](https://drive.google.com/drive/folders/1rjAOjDqlkIQUfgY0JliLm-02H63cmcrx)
 
 ---
-
-## Author
-
-**Soureesh Dalal**  
-🔗 [LinkedIn](https://www.linkedin.com/in/soureeshdalal/)  
-
----
-

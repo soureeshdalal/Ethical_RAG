@@ -68,33 +68,14 @@ Ethical-RAG/
 
 ## Visual Overview
 
-<p align="center">
-  <img src="figures/ethical_rag_architecture.png" alt="Architecture" width="600"/>
-</p>
+![Architecture](https://raw.githubusercontent.com/soureeshdalal/Ethical-RAG/main/Picture%201.png)
+![RAG Comparison Results](https://raw.githubusercontent.com/soureeshdalal/Ethical-RAG/main/rag_comparison_results.png)
+![Hallucination Prevention Flow](https://raw.githubusercontent.com/soureeshdalal/Ethical-RAG/main/hallucination_prevention.png)
+![Trustworthiness Analysis](https://raw.githubusercontent.com/soureeshdalal/Ethical-RAG/main/trustworthiness_analysis.png)
+![Performance Radar Chart](https://raw.githubusercontent.com/soureeshdalal/Ethical-RAG/main/performance_comparison_radar.png)
+![Domain Hallucination Analysis](https://raw.githubusercontent.com/soureeshdalal/Ethical-RAG/main/domain_hallucination_analysis.png)
+![Ethical RAG Dashboard](https://raw.githubusercontent.com/soureeshdalal/Ethical-RAG/main/ethical_rag_dashboard.png)
 
-<p align="center">
-  <img src="figures/rag_comparison_results.png" alt="RAG Comparison Results" width="600"/>
-</p>
-
-<p align="center">
-  <img src="figures/hallucination_prevention.png" alt="Hallucination Prevention Flow" width="600"/>
-</p>
-
-<p align="center">
-  <img src="figures/trustworthiness_analysis.png" alt="Trustworthiness Analysis" width="600"/>
-</p>
-
-<p align="center">
-  <img src="figures/performance_comparison_radar.png" alt="Performance Radar Chart" width="600"/>
-</p>
-
-<p align="center">
-  <img src="figures/domain_hallucination_analysis.png" alt="Domain Hallucination Analysis" width="600"/>
-</p>
-
-<p align="center">
-  <img src="figures/ethical_rag_dashboard.png" alt="Ethical RAG Dashboard" width="600"/>
-</p>
 
 ---
 

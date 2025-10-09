@@ -68,15 +68,33 @@ Ethical-RAG/
 
 ## Visual Overview
 
-| Figure | Description |
-|--------|--------------|
-| `ethical_rag_architecture.png` | System architecture diagram |
-| `hallucination_prevention.png` | Hallucination filtering process |
-| `trustworthiness_analysis.png` | Trust score visualization |
-| `rag_comparison_results.png` | Comparison between baseline and Ethical RAG |
-| `performance_comparison_radar.png` | Radar view of evaluation metrics |
-| `domain_hallucination_analysis.png` | Domain-wise hallucination breakdown |
-| `ethical_rag_dashboard.png` | Dashboard showing key results |
+<p align="center">
+  <img src="figures/ethical_rag_architecture.png" alt="Architecture" width="600"/>
+</p>
+
+<p align="center">
+  <img src="figures/rag_comparison_results.png" alt="RAG Comparison Results" width="600"/>
+</p>
+
+<p align="center">
+  <img src="figures/hallucination_prevention.png" alt="Hallucination Prevention Flow" width="600"/>
+</p>
+
+<p align="center">
+  <img src="figures/trustworthiness_analysis.png" alt="Trustworthiness Analysis" width="600"/>
+</p>
+
+<p align="center">
+  <img src="figures/performance_comparison_radar.png" alt="Performance Radar Chart" width="600"/>
+</p>
+
+<p align="center">
+  <img src="figures/domain_hallucination_analysis.png" alt="Domain Hallucination Analysis" width="600"/>
+</p>
+
+<p align="center">
+  <img src="figures/ethical_rag_dashboard.png" alt="Ethical RAG Dashboard" width="600"/>
+</p>
 
 ---
 

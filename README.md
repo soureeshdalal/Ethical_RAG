@@ -89,7 +89,7 @@ Ethical-RAG/
 ## Access Dataset and Code
 
 All dataset files and pretrained embeddings used in this project can be accessed here:  
-👉 [Google Drive – Code and Dataset](https://drive.google.com/drive/folders/1lm5DCr9mZbJrQdNItxDWp8wCjIPoAfsT?usp=sharing)
+👉 [Google Drive – Code and Dataset](https://drive.google.com/drive/folders/1rjAOjDqlkIQUfgY0JliLm-02H63cmcrx)
 
 *(Link extracted from Code_and_Dataset.pdf)*
 

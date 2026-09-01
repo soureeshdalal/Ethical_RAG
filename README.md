@@ -29,8 +29,8 @@ Developed as part of the **Socially Responsible AI (CS 517)** coursework, this i
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Ethical-RAG.git
-cd Ethical-RAG
+git clone https://github.com/soureeshdalal/Ethical_RAG.git
+cd Ethical_RAG
 ```
 
 ### 2. Install dependencies
